@@ -1,0 +1,6 @@
+{
+  "name": "Rappi BuyAgent - Autonomous Purchasing & Procurement AI",
+  "description": "Enterprise AI Purchasing Agent for buyers: investigates inventory and supplier telemetry, executes optimal procurement decisions, dispatches POs, and validates end-to-end fulfillment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
